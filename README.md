@@ -2,23 +2,20 @@
 This project analyzes patient healthcare data to uncover patterns in demographics, medical conditions, and treatment costs. Using descriptive and prescriptive analytics with interactive dashboards, it identifies high-risk groups and cost trends, delivering actionable insights for better decision-making.
 
 ## 📂 Datasets Information
-1. Source: Provided as part of the US Healthcare Case Study
-2. Size: 10k Patients
-3. Contents: The dataset contains 15 columns covering patient details, admission records, and billing data.
-**Key Columns:**
-a. Patient_ID → Unique identifier for each patient
-b. Age → Age of the patient
-c. Gender → Male / Female
-d. Medical Condition → Reported illness (e.g., Asthma, Diabetes)
-e. Admission Type → Emergency, Urgent, Elective
-f. Date of Admission → Patient admitted in the hospital
-g. Billing Amount → final amount that the patient had to pay out of pocket after the insurance has paid its part 
-h. Insurance Type → Coverage details
+**Key Columns:**  
+a. Patient_ID → Unique identifier for each patient <br>
+b. Age → Age of the patient <br>
+c. Gender → Male / Female <br>
+d. Medical Condition → Reported illness (e.g., Asthma, Diabetes) <br>
+e. Admission Type → Emergency, Urgent, Elective <br>
+f. Date of Admission → Patient admitted in the hospital <br>
+g. Billing Amount → Final amount that the patient had to pay out of pocket after the insurance has paid its part <br>
+h. Insurance Type → Coverage details <br>
 
-Other Columns: Hospital, Room Number, Doctor, Discharge Date and others.
+Other Columns: Hospital, Room Number, Doctor, Discharge Date and others. <br><br>
 
-Usage: Data is used for descriptive and prescriptive analytics to study disease prevalence, demographic trends, and patient cost optimization.
-Note: Dataset has been cleaned and structured for analysis (e.g., standardizing format, creating demographic buckets).
+**Usage:** Data is used for descriptive and prescriptive analytics to study disease prevalence, demographic trends, and patient cost optimization. <br>  
+**Note:** Dataset has been cleaned and structured for analysis (e.g., standardizing format, creating demographic buckets).  
 
 ## 🎯Problem Statement:
 Analyze the impact of demographics and admission types on healthcare costs and outcomes.
