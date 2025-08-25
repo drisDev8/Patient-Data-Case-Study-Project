@@ -1,7 +1,7 @@
-## 📌 Patient Data Case-Study Project
+# 📌 Patient Data Case-Study Project
 This project analyzes patient healthcare data to uncover patterns in demographics, medical conditions, and treatment costs. Using descriptive and prescriptive analytics with interactive dashboards, it identifies high-risk groups and cost trends, delivering actionable insights for better decision-making.
 
-## 📂 Datasets Information
+# 📂 Datasets Information
 **Key Columns:**  
 a. Patient_ID → Unique identifier for each patient <br>
 b. Age → Age of the patient <br>
@@ -17,11 +17,10 @@ Other Columns: Hospital, Room Number, Doctor, Discharge Date and others. <br><br
 **Usage:** Data is used for descriptive and prescriptive analytics to study disease prevalence, demographic trends, and patient cost optimization. <br>  
 **Note:** Dataset has been cleaned and structured for analysis (e.g., standardizing format, creating demographic buckets).  
 
-## 🎯Problem Statement:
+# 🎯Problem Statement
 Analyze the impact of demographics and admission types on healthcare costs and outcomes.
 
-## 📊Objectives & Analysis:
-
+# 📊Objectives & Analysis
 1️⃣ **Demographic Analysis of Medical Conditions**
 **Objective**: Identify the most prevalent medical conditions across different demographic groups.
 
@@ -39,7 +38,7 @@ Analysis Approach:
 2. Determined whether certain demographics or admission types resulted in higher or lower healthcare costs.
 3. Linked findings back to demographic analysis for deeper insights.
 
-## 🔍Key Insights
+# 🔍Key Insights
 1. Hypertension is more prevalent among males (31% in middle-aged males being the highest risk group).
 2. Females show higher prevalence of obesity and diabetes, indicating metabolic vulnerabilities.
 3. Asthma is more common among the younger population, raising early-life respiratory concerns.
@@ -50,7 +49,7 @@ Analysis Approach:
 8. Obesity has the highest potential for savings at 19.5% by Blue Cross for Obesity among all the medical condition.
 
    
-## 🧠Skills Gained:
+# 🧠Skills Gained
 Through this case study, I gained hands-on experience in:
 
 1.  **Sample Size Analysis** – validating whether the dataset is representative and sufficient for drawing insights.
