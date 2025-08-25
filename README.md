@@ -45,8 +45,11 @@ Analysis Approach:
 3. Asthma is more common among the younger population, raising early-life respiratory concerns.
 4. Seniors are more prone to arthritis and cancer, reflecting age-related degeneration.
 5. Obesity is notably higher among middle-aged individuals, likely due to lifestyle changes.
-6. Cost trends reveal that certain admission types and demographics are linked with higher billing amounts.
+6. UnitedHealthcare is the best choice for chronic conditions like Diabetes and Asthma.
+7. Medicare is the recommended choice for serious or long-term illnesses i.e., Cancer at 17.4% savings.
+8. Obesity has the highest potential for savings at 19.5% by Blue Cross for Obesity among all the medical condition.
 
+   
 ## 🧠Skills Gained:
 Through this case study, I gained hands-on experience in:
 
