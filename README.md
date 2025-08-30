@@ -35,7 +35,7 @@ Analysis Approach:
 
 Analysis Approach:
 1. Calculated the average billing amount across different metrics.
-2. Determined whether certain demographics or admission types resulted in higher or lower healthcare costs.
+2. Determined whether certain demographics resulted in higher or lower healthcare costs.
 3. Linked findings back to demographic analysis for deeper insights.
 
 # 🔍Key Insights
