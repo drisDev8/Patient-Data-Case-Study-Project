@@ -18,7 +18,7 @@ Other Columns: Hospital, Room Number, Doctor, Discharge Date and others. <br><br
 **Note:** Dataset has been cleaned and structured for analysis (e.g., standardizing format, creating demographic buckets).  
 
 # 🎯Problem Statement
-Analyze the impact of demographics and admission types on healthcare costs and outcomes.
+Analyze the impact of Medical condition by demographics and Insurance Provider on healthcare costs and outcomes.
 
 # 📊Objectives & Analysis
 1️⃣ **Demographic Analysis of Medical Conditions**
