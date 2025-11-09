@@ -48,7 +48,7 @@ Analysis Approach:
 7. Medicare is the recommended choice for serious or long-term illnesses i.e., Cancer at 17.4% savings.
 8. Obesity has the highest potential for savings at 19.5% by Blue Cross for Obesity among all the medical condition.
 
-   
+<img width="1866" height="841" alt="Image" src="https://github.com/user-attachments/assets/04da7074-dc40-4d3d-9639-fa7b5b4195c6" />
 # 🧠Skills Gained
 Through this case study, I gained hands-on experience in:
 
