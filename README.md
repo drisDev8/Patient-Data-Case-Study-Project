@@ -61,7 +61,3 @@ Through this case study, I gained hands-on experience in:
 6. **Excel Functions** – applying functions for data transformation and calculations.
 7. **Date Formatting** – converting inconsistent date formats and grouping by months/years.
 8. **Feature Engineering** – creating new buckets (e.g., age groups, billing ranges) for deeper analysis.
-
-
-## 👤About Me
-LinkedIn: https://www.linkedin.com/in/dristi-handique/ 
